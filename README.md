@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thomas-hallgren
 - 👀 I’m interested in UX
-- 🌱 I’m currently learning Figma & html/css
-- 💞️ I’m looking to collaborate on defi
+- 🌱 I’m currently working Figma & html/css flex
 - 📫 How to reach me https://thomashallgren.com or twitter/@thomashallgren
 
 <!---
